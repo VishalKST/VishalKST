@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm Vishal!
 
-<!--
-**VishalKST/VishalKST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**
 
-Here are some ideas to get you started:
+- Robotics & Electronics Engineering Enthusiast  
+- Passionate about 3D Printing, Embedded Systems, Computer Vision, and Automation  
+- Currently working on smart robotics projects and IoT solutions  
+- Open to collaborating on impactful tech ideas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+
+- **Programming:** Python, C++, Arduino
+- **Web:** JavaScript, Node.js
+- **Tools:** SolidWorks, ROS, KiCAD, VSCode
+- **Others:** 3D Printing, CAD/CAM
+
+🚀 **Projects Highlight**
+
+- **Smart Attendance System**  
+  IoT-based RFID + face recognition system with database integration.  
+
+- **Nova-SM3 Spectrometer Redesign**  
+  Open-source hardware project for affordable spectroscopy.
+
+- **Construction Site PPE Detector**  
+  AI + Computer Vision for worker safety.
+
+📫 **Get in touch**
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- [Your personal website/portfolio if any]  
+- Email: youremail@example.com
+
+🌟 **What I'm currently learning**
+
+- ROS2
+- Advanced Computer Vision with YOLOv8
+- Edge AI for microcontrollers
+
+---
+
+> _“Making technology more accessible, one robot at a time.”_
+
