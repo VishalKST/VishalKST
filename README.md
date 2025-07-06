@@ -1,60 +1,75 @@
-# 👋 Hi there, I'm Vishal T!
+<h1 align="center">Hi 👋, I'm Vishal T</h1>
 
-**Robotics & Electronics Engineer | Embedded Systems | AI/ML | Automation**
+<p align="center">
+  <b>Robotics & Electronics Engineer | Embedded Systems | AI/ML | Automation</b><br>
+  <i>Designing the next generation of smart robots and electronics</i>
+</p>
 
 ---
 
-🚀 **About Me**
+## 🚀 About Me
 
-Results-driven robotics and embedded systems engineer with hands-on experience designing, prototyping, and deploying autonomous robotic platforms. Skilled in ROS, embedded microcontrollers, PCB design, sensor integration, and control systems. Passionate about applying engineering to solve impactful, real-world problems.
+- 👨‍💻 Robotics & Embedded systems engineer, specializing in autonomous platforms  
+- 🤖 Building solutions with ROS, ESP32, STM32, computer vision, and machine learning  
+- 🧩 Passionate about prototyping, 3D printing, and real-world engineering challenges  
+- 📫 Reach me at: Vishalt.2703@gmail.com
 
-🎯 **Currently Exploring:**
-- Quadruped robotics with ROS architecture
-- Smart IoT systems (ESP32/STM32)
-- Advanced Computer Vision & Machine Learning for safety and automation
+---
 
-🛠 **Technical Skills**
+## 🛠️ Technical Skills
 
-- **Programming**: Python, C/C++, MATLAB, SQL  
-- **Robotics**: Arduino, ESP32, STM32, Raspberry Pi, ROS, control systems, SLAM  
-- **Design**: SolidWorks, AutoCAD, 3D Printing  
-- **AI/ML**: Machine Learning, Computer Vision, Digital Image Processing  
-- **Tools**: Power BI, DevOps, Linux  
-- **Soft Skills**: Problem-solving, leadership, project management
+| **Category**    | **Technologies**                                                                                 |
+|-----------------|--------------------------------------------------------------------------------------------------|
+| Programming     | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks) |
+| Robotics        | ROS, Arduino, ESP32, STM32, Raspberry Pi, Control Systems, SLAM                                   |
+| Design          | SolidWorks, AutoCAD, 3D Printing                                                                  |
+| AI / ML         | Computer Vision, Digital Image Processing, ML Algorithms                                          |
+| Tools           | Power BI, Linux, DevOps                                                                           |
+| Soft Skills     | Problem-solving, Leadership, Project Management                                                   |
 
-🌟 **Featured Projects**
+---
+
+## 📜 Certifications
+
+| Certification                                             | Issued by     | Link                                                                                         |
+|-----------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------|
+| Robo AI                                                  | My Equation   | [View Certificate](#) |
+| Machine Learning Foundations                              | Coursera      | [View Certificate](#) |
+| Big Data Analysis Deep Dive                               | edX           | [View Certificate](#) |
+
+_(replace # with your certificate URLs)_
+
+---
+
+## 🌟 Featured Projects
 
 - **Smart Autonomous Environmental Monitoring Bot**  
-  Autonomous ESP32-based robot with PCB sensor interface and Power BI visualization, achieving 95% accuracy over a 50m range.
+  `ESP32 | Power BI | PCB Design`  
+  An autonomous bot for real-time environment tracking with 95% data accuracy over 50m range.  
 
 - **RFID & Face Recognition Attendance System**  
-  Dual-authentication (RFID + face) based attendance with Arduino circuits, ensuring secure access control.
+  `Arduino | OpenCV | Security`  
+  Secure, dual-factor access and attendance system with face recognition and RFID.
 
 - **Robo Dog**  
-  Boston Dynamics-inspired quadruped with a 6-axis manipulator arm, built on modular ROS architecture.
-
-- **AI-powered Workplace Safety System** *(Internship)*  
-  Computer vision–based PPE detection for construction sites with 70% detection accuracy.
-
-📈 **Experience Highlights**
-
-- **Orion Innovation (AI/ML Intern)** — Built ML-based personal diet planner with 95% accuracy  
-- **4i App Solution (Data Analytics Intern)** — Developed Power BI dashboards improving reporting by 30%  
-- **Sharpsys (AI/ML Intern)** — Developed an AI-powered workplace safety monitor
-
-🎓 **Education**
-
-B.Tech. Computer Science & Engineering  
-SRM Institute of Science & Technology, Chennai  
-CGPA: 8.71 / 10
+  `ROS | 6-axis Manipulator | Quadruped`  
+  Inspired by Boston Dynamics, features a modular ROS architecture and manipulator arm.
 
 ---
 
-📫 **Let’s Connect!**
+## 📊 GitHub Stats
 
-- Email: Vishalt.2703@gmail.com  
-- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- Location: Chennai, India
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalthyagarajan&show_icons=true&theme=tokyonight" alt="vishal's stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalthyagarajan&theme=tokyonight" alt="vishal's streak"/>
+</p>
+
+---
+
+## 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:Vishalt.2703@gmail.com)
 
 > *“Making robotics smarter, safer, and more accessible.”*
 
