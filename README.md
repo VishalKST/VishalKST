@@ -1,43 +1,62 @@
-# Hi there 👋 I'm Vishal!
+# 👋 Hi there, I'm Vishal T!
 
-🎯 **About Me**
-
-- Robotics & Electronics Engineering Enthusiast  
-- Passionate about 3D Printing, Embedded Systems, Computer Vision, and Automation  
-- Currently working on smart robotics projects and IoT solutions  
-- Open to collaborating on impactful tech ideas!
-
-🛠️ **Tech Stack**
-
-- **Programming:** Python, C++, Arduino
-- **Web:** JavaScript, Node.js
-- **Tools:** SolidWorks, ROS, KiCAD, VSCode
-- **Others:** 3D Printing, CAD/CAM
-
-🚀 **Projects Highlight**
-
-- **Smart Attendance System**  
-  IoT-based RFID + face recognition system with database integration.  
-
-- **Nova-SM3 Spectrometer Redesign**  
-  Open-source hardware project for affordable spectroscopy.
-
-- **Construction Site PPE Detector**  
-  AI + Computer Vision for worker safety.
-
-📫 **Get in touch**
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- [Your personal website/portfolio if any]  
-- Email: youremail@example.com
-
-🌟 **What I'm currently learning**
-
-- ROS2
-- Advanced Computer Vision with YOLOv8
-- Edge AI for microcontrollers
+**Robotics & Electronics Engineer | Embedded Systems | AI/ML | Automation**
 
 ---
 
-> _“Making technology more accessible, one robot at a time.”_
+🚀 **About Me**
+
+Results-driven robotics and embedded systems engineer with hands-on experience designing, prototyping, and deploying autonomous robotic platforms. Skilled in ROS, embedded microcontrollers, PCB design, sensor integration, and control systems. Passionate about applying engineering to solve impactful, real-world problems.
+
+🎯 **Currently Exploring:**
+- Quadruped robotics with ROS architecture
+- Smart IoT systems (ESP32/STM32)
+- Advanced Computer Vision & Machine Learning for safety and automation
+
+🛠 **Technical Skills**
+
+- **Programming**: Python, C/C++, MATLAB, SQL  
+- **Robotics**: Arduino, ESP32, STM32, Raspberry Pi, ROS, control systems, SLAM  
+- **Design**: SolidWorks, AutoCAD, 3D Printing  
+- **AI/ML**: Machine Learning, Computer Vision, Digital Image Processing  
+- **Tools**: Power BI, DevOps, Linux  
+- **Soft Skills**: Problem-solving, leadership, project management
+
+🌟 **Featured Projects**
+
+- **Smart Autonomous Environmental Monitoring Bot**  
+  Autonomous ESP32-based robot with PCB sensor interface and Power BI visualization, achieving 95% accuracy over a 50m range.
+
+- **RFID & Face Recognition Attendance System**  
+  Dual-authentication (RFID + face) based attendance with Arduino circuits, ensuring secure access control.
+
+- **Robo Dog**  
+  Boston Dynamics-inspired quadruped with a 6-axis manipulator arm, built on modular ROS architecture.
+
+- **AI-powered Workplace Safety System** *(Internship)*  
+  Computer vision–based PPE detection for construction sites with 70% detection accuracy.
+
+📈 **Experience Highlights**
+
+- **Orion Innovation (AI/ML Intern)** — Built ML-based personal diet planner with 95% accuracy  
+- **4i App Solution (Data Analytics Intern)** — Developed Power BI dashboards improving reporting by 30%  
+- **Sharpsys (AI/ML Intern)** — Developed an AI-powered workplace safety monitor
+
+🎓 **Education**
+
+B.Tech. Computer Science & Engineering  
+SRM Institute of Science & Technology, Chennai  
+CGPA: 8.71 / 10
+
+---
+
+📫 **Let’s Connect!**
+
+- Email: Vishalt.2703@gmail.com  
+- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- Location: Chennai, India
+
+> *“Making robotics smarter, safer, and more accessible.”*
+
+---
 
