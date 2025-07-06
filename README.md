@@ -18,14 +18,14 @@
 
 ## 🛠️ Technical Skills
 
-| **Category**    | **Technologies**                                                                                 |
-|-----------------|--------------------------------------------------------------------------------------------------|
-| Programming     | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks) |
-| Robotics        | ROS, Arduino, ESP32, STM32, Raspberry Pi, Control Systems, SLAM                                   |
-| Design          | SolidWorks, AutoCAD, 3D Printing                                                                  |
-| AI / ML         | Computer Vision, Digital Image Processing, ML Algorithms                                          |
-| Tools           | Power BI, Linux, DevOps                                                                           |
-| Soft Skills     | Problem-solving, Leadership, Project Management                                                   |
+| **Category** | **Technologies** |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programming  | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks) ![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql) |
+| Robotics     | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) ![ESP32](https://img.shields.io/badge/-ESP32-orange) ![STM32](https://img.shields.io/badge/-STM32-blue) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi) ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros) ![SLAM](https://img.shields.io/badge/-SLAM-yellow) |
+| Design       | ![SolidWorks](https://img.shields.io/badge/-SolidWorks-red) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-red) ![3D Printing](https://img.shields.io/badge/-3D%20Printing-orange) |
+| AI/ML        | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-green) ![Image Processing](https://img.shields.io/badge/-Image%20Processing-purple) |
+| Tools        | ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux) ![DevOps](https://img.shields.io/badge/-DevOps-blue) |
+| Soft Skills  | ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-green) ![Leadership](https://img.shields.io/badge/-Leadership-purple) ![Project Management](https://img.shields.io/badge/-Project%20Management-orange) |
 
 ---
 
