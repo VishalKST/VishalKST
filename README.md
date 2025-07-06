@@ -60,8 +60,9 @@ _(replace # with your certificate URLs)_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalKST&show_icons=true&theme=radical" alt="vishal's stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalKST&theme=radical" alt="vishal's streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalKST&show_icons=true&theme=shadow_blue" alt="vishal's stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalKST&theme=shadow_blue" alt="vishal's streak"/>
 </p>
 
 ---
