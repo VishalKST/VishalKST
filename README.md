@@ -33,7 +33,7 @@
 
 | Certification                                             | Issued by     | Link                                                                                         |
 |-----------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------|
-| Robo AI                                                  | My Equation   | [View Certificate](#) |
+| Robo AI                                                  | My Equation   | [View Certificate](https://drive.google.com/file/d/1cjD7BhvOLClabKzMuyL-L-1PzvjlohZR/view?usp=drive_link) |
 | Machine Learning Foundations                              | Coursera      | [View Certificate](#) |
 | Big Data Analysis Deep Dive                               | edX           | [View Certificate](#) |
 
